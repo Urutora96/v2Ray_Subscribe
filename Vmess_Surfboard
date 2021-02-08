@@ -1,0 +1,2 @@
+🇰🇷 Vultr Korea = vmess, korea.urutora96.tk, 443, username=54942cae-931f-4f22-8a28-d947f94c1114, tls=true, ws=true, ws-path=/urutora96, sni=korea.urutora96.tk, ws-headers=Host:korea.urutora96.tk, skip-cert-verify=0, tfo=false
+Oracle = vmess, v2ray.urutora96.tk, 443, username=66be98a7-5537-4f39-b0b8-caa4e7db4fd0, tls=true, ws=true, ws-path=/urutora96, sni=v2ray.urutora96.tk, ws-headers=Host:v2ray.urutora96.tk, skip-cert-verify=0, tfo=false
